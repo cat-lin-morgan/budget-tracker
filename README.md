@@ -55,10 +55,11 @@ Code written by:
 Below are screenshots and gifs of the app installation.
 
 <img src='./installing.gif' alt='Screenshot of PWA installation' /> 
+<img src='./reloadedapplication.gif' alt='Screenshot of application reloaded' /> 
+
 
 <img src='./offlinescreenshot.png' alt='Screenshot of application offline and downloaded' />
 
-<img src='./reloadedapplication.gif' alt='Screenshot of application reloaded' /> 
 
 
 ___Thank you___
