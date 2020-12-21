@@ -6,11 +6,11 @@ ___
 
 This was an introduction for myself into the world of PWAs. Fully built budget tracker with service workers and a manifest.json file. Application works with the mongo atlas db!
 
-Application can be installed to your machine! There's a :x: in the upper right hand corner of the address bar. Click it to install this application.<br/>
- _You must use Google Chrome for this feature, as not all browsers have PWA support._
+Application can be installed to your machine! There's a :x: in the upper right hand corner of the address bar.<br/>
+Click it to install this application.<br/>
+ _If you do not see this feature, try Google Chrome, as not all browsers have PWA support._
 
-## Deployed Application
-[Budget Tracker here](https://dry-plains-21875.herokuapp.com/), with all my expenses, for all you snoopers.
+ <img src="./PWAplusscreenshot.png" />
 
 
 ![javascript badge](https://img.shields.io/badge/We%20Stan-Javascript-brightgreen)
@@ -26,6 +26,9 @@ Application can be installed to your machine! There's a :x: in the upper right h
 
 [![license badge](https://img.shields.io/static/v1?label=license&message=MIT&color=important)](https://opensource.org/licenses/MIT)
 <!-- this has clickability and will go to the legalese -->
+
+## Deployed Application
+[Budget Tracker here](https://dry-plains-21875.herokuapp.com/), with all my expenses, for all you snoopers.
 
 ## Installation 
 
@@ -49,11 +52,13 @@ Code written by:
 
 ## Screenshot 
 
-Below are screenshots and gifs of the app installation and network connections.
+Below are screenshots and gifs of the app installation.
 
-<img src='assets/update-user.gif' alt='Screenshot of Insomia doing Queries'/> 
+<img src='./installing.gif' alt='Screenshot of PWA installation' /> 
 
-<img src='assets/mongooseobject.png' alt='Screenshot of Mongoose User object' />
+<img src='./offlinescreenshot.png' alt='Screenshot of application offline and downloaded' />
+
+<img src='./reloadedapplication.gif' alt='Screenshot of application reloaded' /> 
 
 
 ___Thank you___
