@@ -39,7 +39,7 @@ Then you could either fork it or download a zip file of it.
 
 ## Usage
 
-**All of the details for npm shortcuts are stored in the package.json**
+**All of the details for npm shortcuts are stored in the package.json**<br/>
 ```npm start``` will run the application.
 
 ## Main Contributor

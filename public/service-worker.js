@@ -49,7 +49,7 @@ self.addEventListener('activate', function (e) {
 })
 
 self.addEventListener('fetch', function(e) {
-    console.log(e.request.url, e.request.url.includes('/api'));
+    // console.log(e.request.url, e.request.url.includes('/api'));
     if (e.request.url.includes('/api')) {
         e.respondWith(
             caches.match(e.request).then(function(request) {
