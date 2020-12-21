@@ -6,7 +6,7 @@ ___
 
 This was an introduction for myself into the world of PWAs. Fully built budget tracker with service workers and a manifest.json file. Application works with the mongo atlas db!
 
-Application can be installed to your machine! There's a :x: in the upper right hand corner of the address bar.<br/>
+Application can be installed to your machine! There's a :heavy_plus_sign: in the upper right hand corner of the address bar.<br/>
 Click it to install this application.<br/>
  _If you do not see this feature, try Google Chrome, as not all browsers have PWA support._
 
